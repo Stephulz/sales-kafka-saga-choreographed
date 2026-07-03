@@ -22,7 +22,6 @@ Monorepo of a project implementing saga patterns with Java Spring Boot and Kafka
 * **Redpanda Console**
 
 # Orchestrated Saga Architecture
-### **Branch: refactor/choreography-pattern**
 <img width="1736" height="906" alt="image" src="https://github.com/user-attachments/assets/5766797f-f1e4-45f3-993a-d52832cf210f" />
 
 
