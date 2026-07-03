@@ -39,7 +39,6 @@ Monorepo of a project implementing saga patterns with Java Spring Boot and Kafka
 | order-service              | start-saga                  | consumer           |
 | product-validation-service | product-validation-success  | consumer           |
 | product-validation-service | product-validation-fail     | consumer           |
-| product-validation-service | orchestrator                | producer           |
 | payment-service            | payment-success             | consumer           |
 | payment-service            | payment-fail                | consumer           |
 | inventory-service          | inventory-success           | consumer           |
